@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+button {
+    margin-top: 10px;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.success {
+    color: #28A745;
+}
+
+.danger {
+    color: #DC3545;
+}
